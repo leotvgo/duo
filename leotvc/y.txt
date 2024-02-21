@@ -31,9 +31,12 @@
             "name": "🐺LEO🧧巧技线路🐺"
         },
           {
+            "url":"https://tv.leo123.cn/fl",
+            "name": "🐺LEO🧧福李子🐺"
+        },
+          {
             "url":"http://www.wya6.cn/tv/yc.json",
             "name": "🐺LEO🧧无意线路🐺"
         }		
       ]  
 }
-
