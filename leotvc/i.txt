@@ -1,0 +1,38 @@
+//此多仓接口列表均收集于网络整理而成，如有冒犯各位接口所属大神，请联系删除qq81280607.
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "🦁️LEO🧧不良帅🦁️"
+        },         
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "🦁️LEO🧧喵影视🦁️"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "🦁️LEO🧧万达🦁️"
+        },        
+        {
+            "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/config.json",
+            "name": "🦁️LEO🧧kvymin🦁️"
+        },
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "🦁️LEO🧧小胡🦁️"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🦁️LEO🧧小马🦁️"
+        },
+        {
+            "url": "https://tv.lan2wan.top/candymuj.json",
+            "name": "🦁️LEO🧧看电影🦁️"
+        },
+        {
+            "url": "https://lltv8.top",
+            "name": "🦁️LEO🧧猎狼🦁️"
+        }
+    ]
+}

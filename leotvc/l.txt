@@ -1,0 +1,46 @@
+//此多仓接口列表均收集于网络整理而成，如有冒犯各位接口所属大神，请联系删除qq81280607。
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🐲LEO┃饭太硬线路🐲"
+        },                      
+        {
+            "url": "http://肥猫.live",
+            "name": "🐲LEO┃肥猫线路🐲"
+        },     
+        {
+            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "🐲LEO┃PG线路🐲"
+        },                                                                            
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🐲LEO┃道长线路🐲"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🐲LEO┃香雅情线路🐲"
+        },  
+        {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "🐲LEO┃小米线路🐲"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🐲LEO┃Ray线路🐲"
+        },			
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🐲LEO┃俊佬线路🐲"
+        },    
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🐲LEO┃老刘备线路🐲"
+        },
+          {
+            "url":"http://rihou.cc:88/荷城茶秀",
+            "name": "🐲LEO┃荷城茶秀🐲"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+//此多仓接口列表均收集于网络整理而成，如有冒犯各位接口所属大神，请联系删除qq81280607。
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "name": "🐯LEO🧧潇洒线路🐯"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐯LEO🧧南风线路🐯"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "🐯LEO🧧D佬魔改线路🐯"
+        },        
+        {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "🐯LEO🧧日后线路🐯"
+        },                              
+        {
+            "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
+            "name": "🐯LEO🧧月光宝盒🐯"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "🐯LEO🧧欧歌线路🐯"
+        },        
+        {
+            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+            "name": "🐯LEO🧧吾爱线路🐯"
+        }, 
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐯LEO🧧云星日记🐯"
+        },   
+        {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "🐯LEO🧧运输车线路🐯"
+        },                  
+        {
+            "url": "http://8.210.232.168/xc.json",
+            "name": "🐯LEO🧧星辰线路🐯"
+        },          
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "🐯LEO🧧分享者线路🐯"
+        },
+        {
+            "url": "http://www.liuyunw.com:88/img",
+            "name": "🐯LEO🧧神仙线路🐯"
+        }
+    ]
+}

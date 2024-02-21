@@ -1,0 +1,39 @@
+//此多仓接口列表均收集于网络整理而成，如有冒犯各位接口所属大神，请联系删除qq81280607.
+//转载请注明出处
+{
+    "urls": [
+          {
+            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "🐺LEO🧧业余线路🐺"
+        },
+          {
+            "url":"https://atomgit.com/xymz/ymz/raw/master/Xymz.json",
+            "name": "🐺LEO🧧夜猫子🐺"
+        }, 
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🐺LEO🧧高天流云🐺"
+        }, 
+          {
+            "url":"http://sinopacifichk.com/box/56.txt",
+            "name": "🐺LEO🧧太平洋线路🐺"
+        },
+          {
+            "url":"https://wds.ecsxs.com/230989.json",
+            "name": "🐺LEO🧧春盈线路🐺"
+        },		
+          {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "🐺LEO🧧二哈线路🐺"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🐺LEO🧧巧技线路🐺"
+        },
+          {
+            "url":"http://www.wya6.cn/tv/yc.json",
+            "name": "🐺LEO🧧无意线路🐺"
+        }		
+      ]  
+}
+
