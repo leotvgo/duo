@@ -3,8 +3,12 @@
 {
     "urls": [
         {
+            "url": "https://tv.leo123.cn/LJT",
+            "name": "🐲LEO🔥家庭线路🐲"
+        },                      
+        {
             "url": "https://tv.leo123.cn/org",
-            "name": "🐲LEO🔥家庭4K线路🐲"
+            "name": "🐲LEO🔥4k线路🐲"
         },                      
         {
             "url": "http://饭太硬.top/tv",
