@@ -11,8 +11,8 @@
             "name": "🐲LEO🔥4k线路🐲"
         },                      
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "🐲LEO🔥欧歌线路🐲"
+            "url": "http://饭太硬.top/tv",
+            "name": "🐲LEO🔥饭太硬线路🐲"
         },                      
         {
             "url": "http://肥猫.live",
