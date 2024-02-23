@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"🐲LEO家庭主仓🐯","sourceUrl":"https://tv.leo123.cn/jt"},
-{"sourceName":"🐲LEO优选网仓🐯","sourceUrl":"https://tv.leo123.cn/yx"},
-{"sourceName":"🐲LEO网络集仓🐯","sourceUrl":"https://tv.leo123.cn/wl"},
-{"sourceName":"🐲LEO备用集仓🐯","sourceUrl":"https://tv.leo123.cn/by"}
+{"sourceName":"🐲LEO家庭A主仓🐯","sourceUrl":"https://tv.leo123.cn/jt"},
+{"sourceName":"🐲LEO优选A网仓🐯","sourceUrl":"https://tv.leo123.cn/yx"},
+{"sourceName":"🐲LEO网络A集仓🐯","sourceUrl":"https://tv.leo123.cn/wl"},
+{"sourceName":"🐲LEO备用A集仓🐯","sourceUrl":"https://tv.leo123.cn/by"}
 ]}
