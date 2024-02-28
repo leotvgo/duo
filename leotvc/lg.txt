@@ -17,6 +17,10 @@
         {
             "url": "http://肥猫.live",
             "name": "🐲LEO🔥肥猫线路🐲"
+        },                      
+        {
+            "url": "https://tv.leo123.cn/PG",
+            "name": "🐲LEO🔥个人PG🐲"
         },     
         {
             "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
