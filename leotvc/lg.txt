@@ -19,7 +19,7 @@
             "name": "🐲LEO🔥肥猫线路🐲"
         },                      
         {
-            "url": "https://tv.leo123.cn/PG",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/PG/main/jsm.json",
             "name": "🐲LEO🔥个人PG🐲"
         },     
         {
