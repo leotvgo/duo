@@ -31,6 +31,10 @@
             "name": "🐲LEO🔥香雅情线路🐲"
         },  
         {
+            "url": "http://www.wya6.cn/tv/yc.php",
+            "name": "🐲LEO🔥无意线路🐲"
+        },  
+        {
             "url": "http://xhww.fun/小米/DEMO.json",
             "name": "🐲LEO🔥小米线路🐲"
         },
