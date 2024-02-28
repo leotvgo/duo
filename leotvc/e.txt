@@ -23,7 +23,7 @@
             "name": "🐯LEO🧧月光宝盒🐯"
         },
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌",
             "name": "🐯LEO🧧欧歌线路🐯"
         },        
         {
