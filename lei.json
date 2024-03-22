@@ -1,6 +1,6 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar;md5;a83a50484ea2d7a8aa6b37957a05a805",
-  "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main//Biz/3.jpeg","warningText":"雷欧提示:
+  "spider": "https://raw.gitmirror.com/leotvgo/tv/main/spider.jar;md5;a83a50484ea2d7a8aa6b37957a05a805",
+  "wallpaper": "https://raw.gitmirror.com/leotvgo/duo/main//Biz/3.jpeg","warningText":"雷欧提示:
 接口软件永远免费 
 长期维护切勿贩卖",
 
@@ -13,7 +13,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/douban.json",
+      "ext": "https://raw.gitmirror.com/leiatai/leocloud/main/lib/douban.json",
       "jar": "https://jihulab.com/leotvgo/duo/-/raw/main/pg.jar"
     },
     {
@@ -38,7 +38,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "https://raw.gitmirror.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "荐片影视",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main/wex.txt"
+      "jar": "https://raw.gitmirror.com/leotvgo/duo/main/wex.txt"
     },
     {
       "key":"一起看",
@@ -181,14 +181,14 @@
       "api": "csp_WexFangniu4k",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main/wex.txt"
+      "jar": "https://raw.gitmirror.com/leotvgo/duo/main/wex.txt"
     },
     {
       "key": "Fangniu",
       "name": "LEO┃影探2",
       "type": 3,
       "api": "csp_Fangniu4k",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/LEO/main/hanguomeinv.jar",
+      "jar": "https://raw.gitmirror.com/leiatai/LEO/main/hanguomeinv.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -200,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘搜索.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
@@ -210,7 +210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/DOVX搜索.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/DOVX搜索.json"
     },
     {
       "key": "Upyunso",
@@ -262,7 +262,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/我的小站.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/我的小站.json"
     },
     {
       "key": "阿里苏苏",
@@ -272,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/阿里苏苏.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/阿里苏苏.json"
     },
     {
       "key": "云盘论坛",
@@ -282,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘论坛.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/云盘论坛.json"
     },
     {
       "key": "云盘资源",
@@ -292,7 +292,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘资源.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/云盘资源.json"
     },
     {
       "key": "云盘资源分享",
@@ -302,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘资源分享.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/云盘资源分享.json"
     },
     {
       "key": "土拨鼠搜索",
@@ -312,7 +312,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/土拨鼠搜索.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/土拨鼠搜索.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -322,7 +322,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/豆豆飞搜索.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/豆豆飞搜索.json"
     },
     {
       "key": "阿里云盘网",
@@ -332,7 +332,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/阿里云盘网.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/阿里云盘网.json"
     },
     {
       "key": "影视车",
@@ -342,7 +342,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/影视车.json"
+      "ext": "https://raw.gitmirror.com/leotvgo/tv/main/lib/影视车.json"
     },
     {
       "key": "紙條搜",
@@ -351,7 +351,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main/wex.txt"
+      "jar": "https://raw.gitmirror.com/leotvgo/duo/main/wex.txt"
     },
     {
       "key": "Zhaozy",
@@ -377,7 +377,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "https://raw.gitmirror.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "夸克盘搜弹幕",
@@ -392,7 +392,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "https://raw.gitmirror.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "趣盘搜弹幕",
@@ -407,7 +407,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "https://raw.gitmirror.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "xyyy",
@@ -439,7 +439,7 @@
        "api": "csp_WexTiantianys",
        "searchable": 1,
        "changeable": 1,
-       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main/wex.txt"},
+       "jar": "https://raw.gitmirror.com/leotvgo/duo/main/wex.txt"},
     {
       "key":"哔嘀",
       "name":"💡哔嘀┃影视",
