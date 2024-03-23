@@ -194,7 +194,7 @@
     },
    {
       "key":"秒搜",
-      "name":"秒搜|网盘",
+      "name":"LEO｜秒搜",
       "type":3,
       "api":"csp_MiaoSou",
       "timeout":60, 
