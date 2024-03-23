@@ -197,14 +197,11 @@
       "name":"LEO｜秒搜",
       "type":3,
       "api":"csp_MiaoSou",
-      "timeout":60, 
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext":"http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "https://raw.gitmirror.com/leiatai/LEO/main/pg.jar",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+      "jar": "https://raw.gitmirror.com/leiatai/LEO/main/pg.jar"},
     {
       "key": "云盘搜索",
       "name": "LEO｜搜索",
