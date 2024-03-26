@@ -7,7 +7,7 @@
             "name": "🐲LEO🔥家庭线路🐲"
         },                      
         {
-            "url": "https://tv.leo123.cn/4k",
+            "url": "https://tv.leo123.cn/top",
             "name": "🐲LEO🔥4k线路🐲"
         },                      
         {
