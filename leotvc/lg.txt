@@ -3,12 +3,16 @@
 {
     "urls": [
         {
-            "url": "https://tv.leo123.cn/LJT",
-            "name": "🐲LEO🔥家庭线路🐲"
-        },                      
+            "url": "https://tv.leo123.cn/PG",
+            "name": "🐲LE🔥家庭A线路🐲"
+        },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/PG/main/leopg.json",
-            "name": "🐲LEO🔥4k线路🐲"
+            "url": "https://tv.leo123.cn/LJT",
+            "name": "🐲LEOA🔥家庭B线路🐲"
+        },                       
+        {
+            "url": "https://tv.leo123.cn/LJT1",
+            "name": "🐲LEO🔥家庭C线路🐲"
         },                      
         {
             "url": "http://饭太硬.top/tv",
