@@ -4,11 +4,11 @@
     "urls": [
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
-            "name": "🐲LE🔥家庭A线路🐲"
+            "name": "🐲LEO🔥家庭A线路🐲"
         },
         {
             "url": "https://tv.leo123.cn/LJT",
-            "name": "🐲LEOA🔥家庭B线路🐲"
+            "name": "🐲LEO🔥家庭B线路🐲"
         },                       
         {
             "url": "https://tv.leo123.cn/LJT1",
