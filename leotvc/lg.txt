@@ -23,7 +23,7 @@
             "name": "🐲LEO🔥肥猫线路🐲"
         },                      
         {
-            "url": "https://tv.leo123.cn/NS",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/ns/main/index.json",
             "name": "🐲LEO🔥鸟鸟线路🐲"
         },     
         {
