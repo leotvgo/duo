@@ -34,6 +34,10 @@
             "url":"https://tv.leo123.cn/fl",
             "name": "🐺LEO🧧福李子🐺"
         },
+        {
+            "url":"https://raw.githubusercontent.com/leotvgo/leo/main/18j.json",
+            "name": "🐺LEO🧧福李子1🐺"
+        },
           {
             "url":"http://www.wya6.cn/tv/yc.json",
             "name": "🐺LEO🧧无意线路🐺"
