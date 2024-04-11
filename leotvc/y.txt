@@ -35,7 +35,7 @@
             "name": "🐺LEO🧧福李子🐺"
         },
         {
-            "url":"https://raw.githubusercontent.com/leotvgo/leo/main/18j.json",
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/18j.json",
             "name": "🐺LEO🧧福李子1🐺"
         },
           {
