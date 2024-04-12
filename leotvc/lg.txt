@@ -3,7 +3,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.gitmirror.com/leotvgo/leo/main/api.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
             "name": "🐲LEO🔥家庭A线路🐲"
         },
         {
