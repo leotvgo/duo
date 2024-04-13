@@ -7,6 +7,10 @@
             "name": "🐲LEO🔥家庭A线路🐲"
         },
         {
+            "url": "https://gitlab.com/leo3975408/leo/-/raw/main/api.json",
+            "name": "🐲LEO🔥家庭A线路2🐲"
+        },
+        {
             "url": "https://tv.leo123.cn/LJT",
             "name": "🐲LEO🔥家庭B线路🐲"
         },                       
