@@ -2,131 +2,127 @@
     "urls": [		
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
-            "name": "🐲LEO🔥家庭A线路🐲"
+            "name": "LEO家庭A线路"
         },
         {
             "url": "https://cf.leo123.cn/proxy/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
-            "name": "🐲LEO🔥家庭A线路1🐲"
+            "name": "LEO家庭A线路1"
         },
         {
             "url": "https://gitlab.com/leo3975408/leo/-/raw/main/api.json",
-            "name": "🐲LEO🔥家庭A线路2🐲"
+            "name": "LEO家庭A线路2"
         },
         {
             "url": "https://tv.leo123.cn/LJT",
-            "name": "🐲LEO🔥家庭B线路🐲"
+            "name": "LEO家庭B线路"
         },                       
         {
             "url": "https://tv.leo123.cn/LJT1",
-            "name": "🐲LEO🔥家庭C线路🐲"
+            "name": "LEO家庭C线路"
         },
         {
-            "url": "https://tv.leo123.cn/drpy",
-            "name": "🐲LEO🔥家庭D线路🐲"
+            "url": "https://cf.leo123.cn/proxy/https://raw.githubusercontent.com/leotvgo/leojs/main/index.json",
+            "name": "LEO家庭D线路"
         }, 
         {
             "url": "http://www.饭太硬.com/tv",
-            "name": "🐲LEO🔥饭太硬线路🐲"
+            "name": "LEO饭太硬线路"
         },          
         {
             "url": "http://肥猫.com",
-            "name": "🐲LEO🔥肥猫线路🐲"
+            "name": "LEO肥猫线路"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/ns/main/index.json",
-            "name": "🐲LEO🔥鸟鸟线路🐲"
-        },  
-        {
-            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-            "name": "🐲LEO🔥PG线路🐲"
-        },
+            "name": "LEO鸟鸟线路"
+        },   
         {
             "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
-            "name": "🐲LEO🔥OK线路🐲"
+            "name": "LEO OK线路"
         },		
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🐲LEO🔥道长线路🐲"
+            "name": "LEO道长线路"
         },
         {
             "url": "http://tvbox.王二小放牛娃.xyz",
-            "name": "🐲LEO🔥放牛线路🐲"
+            "name": "LEO放牛线路"
         },                    
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🐲LEO🔥香雅情线路🐲"
+            "name": "LEO香雅情线路"
         }, 	
         {
             "url": "https://100km.top/0",
-            "name": "🐲LEO🔥Ray线路🐲"
+            "name": "LEORay线路"
         },				
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "🐲LEO🔥俊佬线路🐲"
+            "name": "LEO俊佬线路"
         },
         {
             "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "🐲LEO🔥小米线路🐲"
+            "name": "LEO小米线路"
         },   		
         {
             "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🐲LEO🔥荷城茶秀🐲"
+            "name": "LEO荷城茶秀"
         },  		
         {
             "url": "https://cn.kstore.space/download/2863/01.txt",
-            "name": "🐲LEO🔥潇洒线路🐲"
+            "name": "LEO潇洒线路"
         },
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🐲LEO🔥D佬魔改线路🐲"
+            "name": "LEOD佬魔改线路"
         },   
         {
             "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-            "name": "🐲LEO🔥欧歌线路🐲"
+            "name": "LEO欧歌线路"
         }, 
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐲LEO🔥南风线路🐲"
+            "name": "LEO南风线路"
         },     
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐲LEO🔥云星日记🐲"
+            "name": "LEO云星日记"
         }, 
         {
             "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
-            "name": "🐲LEO🔥月光宝盒🐲"
+            "name": "LEO月光宝盒"
         },  
         {
             "url": "http://meowtv.cn/tv",
-            "name": "🐲LEO🔥喵影视线路🐲"
+            "name": "LEO喵影视线路"
         },		
         {
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-            "name": "🐲LEO🔥吾爱线路🐲"
+            "name": "LEO吾爱线路"
         },		
         {
             "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "🐲LEO🔥运输车线路🐲"
+            "name": "LEO运输车线路"
         },
           {
             "url":"https://atomgit.com/xymz/ymz/raw/master/Xymz.json",
-            "name": "🐲LEO🔥夜猫子🐲"
+            "name": "LEO夜猫子"
         },
         {
             "url": "http://我不是.摸鱼儿.top",
-            "name": "🐲LEO🔥摸鱼线路🐲"
+            "name": "LEO摸鱼线路"
         },  
         {
             "url": "http://www.wya6.cn/tv/yc.php",
-            "name": "🐲LEO🔥无意线路🐲"
+            "name": "LEO无意线路"
         }, 		
         {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🐲LEO🔥高天流云🐲"  
+            "name": "LEO高天流云"  
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/18j.json",
-            "name": "🐲LEO🔥福李子线路🐲"
+            "name": "LEO福李子线路"
         }
     ]
 }
