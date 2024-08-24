@@ -21,8 +21,8 @@
             "name": "LEO家庭C线路"
         },
         {
-            "url": "https://cf.leo123.cn/proxy/https://raw.githubusercontent.com/leotvgo/leojs/main/index.json",
-            "name": "LEO家庭D线路"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/zhenxin/main/leoapi.json",
+            "name": "LEO真心线路"
         }, 
         {
             "url": "http://www.饭太硬.com/tv",
