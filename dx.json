@@ -1,11 +1,11 @@
 {
     "urls": [		
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/leotvgo/leo/main/api.json",
             "name": "LEO家庭A线路"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leojs/main/api.json",
+            "url": "https://ghp.leo123.cn/proxy/https://raw.githubusercontent.com/leotvgo/leojs/main/api.json",
             "name": "LEO家庭A线路1"
         },
         {
@@ -21,7 +21,7 @@
             "name": "LEO家庭C线路"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/zhenxin/main/leoapi.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/leotvgo/zhenxin/main/leoapi.json",
             "name": "LEO真心线路"
         }, 
         {
@@ -33,7 +33,7 @@
             "name": "LEO肥猫线路"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/ns/main/index.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/leotvgo/ns/main/index.json",
             "name": "LEO鸟鸟线路"
         },   
         {
@@ -49,7 +49,7 @@
             "name": "LEO放牛线路"
         },                    
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://ghp.leo123.cn/proxy/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "LEO香雅情线路"
         }, 	
         {
